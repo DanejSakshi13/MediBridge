@@ -34,9 +34,7 @@ record-keeping.
 With our application, patients and their families can securely store, access, and share
 essential medical records and prescriptions in a digital format. This not only
 minimizes the risk of misplacement but also ensures that the information is readily
-available whenever and wherever it is needed. In addition, it allows for seamless
-
-collaboration with healthcare professionals, enabling them to access accurate, up-to-
+available whenever and wherever it is needed. In addition, it allows for seamless collaboration with healthcare professionals, enabling them to access accurate, up-to-
 date information, leading to better-informed diagnoses and treatment plans.
 
 By alleviating the administrative burdens related to healthcare documentation, our
